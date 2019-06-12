@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clickyFortnite/static/css/main.804a2757.chunk.css",
+    "main.js": "/clickyFortnite/static/js/main.a269f5d0.chunk.js",
+    "main.js.map": "/clickyFortnite/static/js/main.a269f5d0.chunk.js.map",
+    "runtime~main.js": "/clickyFortnite/static/js/runtime~main.d149c71e.js",
+    "runtime~main.js.map": "/clickyFortnite/static/js/runtime~main.d149c71e.js.map",
+    "static/js/2.884c28c3.chunk.js": "/clickyFortnite/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/clickyFortnite/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/clickyFortnite/index.html",
+    "precache-manifest.c2693c5c7e747e3fa472e276a57ad5a9.js": "/clickyFortnite/precache-manifest.c2693c5c7e747e3fa472e276a57ad5a9.js",
+    "service-worker.js": "/clickyFortnite/service-worker.js",
+    "static/css/main.804a2757.chunk.css.map": "/clickyFortnite/static/css/main.804a2757.chunk.css.map"
+  }
+}
